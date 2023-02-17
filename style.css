@@ -1,8 +1,9 @@
 body {
     background-image: url("https://freepngimg.com/thumb/internet_meme/3-2-troll-face-meme-png.png");
-    background-position: center;
+    background-position: top;
     background-repeat: no-repeat;
     background-size: contain;
+    min-width: 400px;
     height: 100vh;
 }
 
@@ -21,7 +22,7 @@ h1 {
 }
 
 form {
-    width: 500px;
+    width: 50%;
     animation: fadeInUp 1s;
 }
 
